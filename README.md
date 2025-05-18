@@ -23,7 +23,14 @@ loadstring(game:HttpGet("https://pastebin.com/raw/nqjjAcLz"))()
 ```
 
 ## AppleSaken
-esp | stamina | generator | killer | misc | survivor
+esp | stamina | generator | killer | misc | survivor | aimbot
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SilkScripts/AppleStuff/refs/heads/main/AppleFSKV2", true))()
+```
+
+## Goa Hub
+esp | main | Aimbot | player
+```lua
+_G.keygoahub = "goaHuB41"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nevcit/GOA_HUB/refs/heads/main/Forsaken"))()
 ```
