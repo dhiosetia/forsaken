@@ -20,3 +20,9 @@ esp | stamina | generator
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/nqjjAcLz"))()
 ```
+
+## AppleSaken
+esp | stamina | generator | killer | misc | survivor
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilkScripts/AppleStuff/refs/heads/main/AppleFSKV2", true))()
+```
