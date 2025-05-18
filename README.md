@@ -34,3 +34,10 @@ esp | main | Aimbot | player
 _G.keygoahub = "goaHuB41"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nevcit/GOA_HUB/refs/heads/main/Forsaken"))()
 ```
+
+## Kuncicoco Hub | forsaken update v5
+esp | main | Aimbot | player | auto generator
+```lua
+_G.no = "kuncicocoupdatev5"
+loadstring(game:HttpGet("https://pastebin.com/raw/zvJXwMjX", true))()
+```
