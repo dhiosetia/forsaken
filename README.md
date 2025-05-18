@@ -41,3 +41,14 @@ esp | main | Aimbot | player | auto generator
 _G.no = "kuncicocoupdatev5"
 loadstring(game:HttpGet("https://pastebin.com/raw/zvJXwMjX", true))()
 ```
+
+## Executor Support
+```lua
+--swift
+--wave
+--cryfcie
+--delta
+--fluxus
+--codex
+--vega x
+```
